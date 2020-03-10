@@ -13,7 +13,7 @@ You if have been developing vRO workflows you will notice that the new format an
 
 ### Python
 
-[List EC2 instances using AWS SDK](https://github.com/tgeorgiev/vro-polyglot-scripts/python-aws)
+[List EC2 instances using AWS SDK](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/python-aws)
 
 
 ### PowerShell / PowerCLI
