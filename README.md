@@ -12,21 +12,23 @@ You if are used to vRO you will notice that the new format and structure is diff
 
 [Simple Action](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/node/simple-action) - Get to know how your Node.js script can accept inputs and return output of different types
 
+[List EC2 instances using AWS SDK](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/node/aws) - Import 3rd party NPM modules, specifically the AWS SDK, and integrate with AWS services
+
 
 ### Python
 
 [Simple Action](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/python/simple-action) - Get to know how your Python script can accept inputs and return output of different types
 
-[List EC2 instances using AWS SDK](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/python/aws)
+[List EC2 instances using AWS SDK](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/python/aws) - Import 3rd party PIP modules, specifically the AWS SDK, and integrate with AWS services
 
 
 ### PowerShell / PowerCLI
 
 [Simple Action](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/powershell/simple-action) - Get to know how your PowerShell script can accept inputs and return output of different types
 
-[Integrate 3rd party modules (PSGallery)](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/powershell/3rd-party) - Get to know how you can import 3rd party PS modules in your script.
+[Integrate 3rd party modules](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/powershell/3rd-party) - Import 3rd party PSGallery modules in your script
 
-[List vSphere machines using PowerCLI](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/powershell/vsphere)
+[List vSphere machines using PowerCLI](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/powershell/vsphere) - Now we're talking
 
 
 
