@@ -14,6 +14,8 @@ You if are used to vRO you will notice that the new format and structure is diff
 
 [Simple Action](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/node/simple-action) - Get to know how your Node.js script can accept inputs and return output of different types
 
+[Sync-Async](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/node/sync-async) - See how you can write your function and return an output using different flavours of synchronous and asynchronous handling (applicable only for Node.js)
+
 [List EC2 instances using AWS SDK](https://github.com/tgeorgiev/vro-polyglot-scripts/tree/master/node/aws) - Import 3rd party NPM modules, specifically the AWS SDK, and integrate with AWS services
 
 
