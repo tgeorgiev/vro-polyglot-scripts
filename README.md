@@ -1,8 +1,10 @@
 # vro-polyglot-scripts
 A collection of vRealize Orchestrator Polyglot scripts to bootstrap your multi language vRO development
 
+![vRO Script Runtimes](https://github.com/tgeorgiev/vro-polyglot-scripts/blob/master/assets/vro.png)
+
 ## About this Repository
-This repository provides simple template-like scripts to get you up to speed with the multi language development introduced in vRO 8.1. The functions provide a good starting point upon which you can extend.
+This repository provides simple template-like scripts to get you up to speed with the multi language development introduced in vRO 8.1. The functions are intended to be as simple and informative as possible to let you know the basics and extend further for your specific use cases.
 
 You if are used to vRO you will notice that the new format and structure is different that the classical vRO JavaScript, on the other hand if you are familiar with AWS Lambda, Azure Functions and vRA ABX you will find it very similar. vRO multi-language scripts closely follows the format of those function execution engines.
 
