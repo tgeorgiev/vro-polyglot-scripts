@@ -3,8 +3,6 @@ A collection of vRealize Orchestrator Polyglot example scripts in Node.js, Pytho
 
 ![vRO Script Runtimes](https://github.com/tgeorgiev/vro-polyglot-scripts/blob/master/assets/vro.png)
 
-![vRO Script Runtimes](https://github.com/tgeorgiev/vro-polyglot-scripts/blob/master/assets/vro.png)
-
 ## About this Repository
 This repository provides simple template-like scripts to get you up to speed with the multi language development introduced in vRO 8.1. The functions are intended to be as simple and informative as possible to let you know the basics and extend further for your specific use cases.
 
