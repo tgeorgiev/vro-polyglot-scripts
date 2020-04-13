@@ -1,5 +1,7 @@
 # vro-polyglot-scripts
-A collection of vRealize Orchestrator Polyglot scripts to bootstrap your multi language vRO development
+A collection of vRealize Orchestrator Polyglot example scripts in Node.js, Python and PowerShell to bootstrap your multi language vRO development
+
+![vRO Script Runtimes](https://github.com/tgeorgiev/vro-polyglot-scripts/blob/master/assets/vro.png)
 
 ![vRO Script Runtimes](https://github.com/tgeorgiev/vro-polyglot-scripts/blob/master/assets/vro.png)
 
