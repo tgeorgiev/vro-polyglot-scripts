@@ -2,7 +2,7 @@
 
 Sample showing how you can integrate vRO with AWS only with scripting using the SDK for Python
 
-To fully prepare this function to be executed in vRO you need do the following
+To fully prepare this function to be executed in vRO you need do the following:
 
 1. Install boto3
 boto3 is the AWS SDK for Python (https://aws.amazon.com/sdk-for-python/)
