@@ -9,7 +9,7 @@ To fully prepare this function to be executed in vRO you need do the following:
    The AWS SDK for Node.js (https://aws.amazon.com/sdk-for-node-js)
 
    ```shell
-   npm install aws
+   npm install aws-sdk
    ```
 
 2. Update the "awsconfig.json" file with your IAM User credentials. 
