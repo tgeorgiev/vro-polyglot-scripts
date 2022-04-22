@@ -1,4 +1,4 @@
-# List EC2 instances using the AWS SDK for Python
+# List vSphere machines using PowerCLI
 
 Sample showing how you can integrate vRO with vSphere using PowerCLI
 
